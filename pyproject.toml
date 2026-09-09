@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-smooth-organizer"
+version = "1.0.1"
+description = "A graph-aware workflow layout and organization extension for ComfyUI."
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+
+[project.urls]
+Repository = "https://github.com/YOUR_USERNAME/ComfyUI-Smooth-Organizer"
+Documentation = "https://github.com/YOUR_USERNAME/ComfyUI-Smooth-Organizer#readme"
+"Bug Tracker" = "https://github.com/YOUR_USERNAME/ComfyUI-Smooth-Organizer/issues"
+
+[tool.comfy]
+PublisherId = "YOUR_PUBLISHER_ID"
+DisplayName = "Smooth Organizer"
