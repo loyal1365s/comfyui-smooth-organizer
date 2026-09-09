@@ -13,3 +13,4 @@ Documentation = "https://github.com/YOUR_USERNAME/ComfyUI-Smooth-Organizer#readm
 [tool.comfy]
 PublisherId = "YOUR_PUBLISHER_ID"
 DisplayName = "Smooth Organizer"
+Icon = "https://raw.githubusercontent.com/loyal1365s/comfyui-smooth-organizer/main/icon.png"
