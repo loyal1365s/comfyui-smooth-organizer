@@ -4,6 +4,8 @@ Version **1.0.1**
 
 Smooth Organizer is a graph-aware layout extension for ComfyUI. It uses the official frontend extension hook for Canvas menus and keeps its layout vocabulary and interaction model independent from other organizer extensions.
 
+![Showcase GIF](smooth-organizer.gif)
+
 ## ✨ Layout modes
 
 
@@ -104,6 +106,8 @@ git clone [https://github.com/loyal1365s/comfyui-smooth-organizer](https://githu
 نسخه **1.0.1**
 
 پلاگین Smooth Organizer یک افزونه چیدمان هوشمند و مبتنی بر گراف برای کامفی‌یوآی است. این افزونه از هوک‌های رسمی فرانت‌اند برای منوهای Canvas استفاده می‌کند و کلمات کلیدی چیدمان و مدل تعاملی آن کاملاً مستقل از سایر افزونه‌های مرتب‌سازی عمل می‌کند.
+
+![Showcase GIF](smooth-organizer.gif)
 
 ## ✨ حالت‌های چیدمان (Layout modes)
 
